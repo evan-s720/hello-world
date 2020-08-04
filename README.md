@@ -1,4 +1,4 @@
 # hello-world
-1st github repo
 
-20200804-2318: Hahaha, 1st Edit
+20200804-2318: <1st Edit Removed>
+20200804-2332: Hahaha, 2nd Edit
